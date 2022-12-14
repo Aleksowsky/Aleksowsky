@@ -1,0 +1,36 @@
+/* Alex EEDAT2 */
+
+body {
+    background-color: brown;
+}
+
+h1 {
+    color:aliceblue;
+    border-style: dotted;
+  border-width: 2px;
+}
+
+color: green;
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: pink;
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
+a:active {
+color: yellow;
+background-color: transparent;
+text-decoration: underline;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
